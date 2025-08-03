@@ -145,7 +145,7 @@ footer {
   max-width: 300px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-  transition: transform 0.3s ease;
+  transition: transform 0.5s ease;
 }
 
 .gallery-container img:hover {
@@ -162,13 +162,14 @@ footer {
   height: auto;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-  transition: transform 0.3s ease;
+  transition: transform 0.5s ease;
 }
 
 /* Hover effect: shift carousel left */
 .carousel:hover .carousel-track {
   transform: translateX(-20%);
 }
+
 
 
 
