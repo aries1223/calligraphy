@@ -16,7 +16,7 @@ body {
 
 /* Overlay for readability */
 .overlay {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0);
   padding: 2rem;
   height: 100%;
   display: flex;
@@ -140,5 +140,6 @@ footer {
 .carousel:hover .carousel-track {
   transform: translateX(-20%);
 }
+
 
 
